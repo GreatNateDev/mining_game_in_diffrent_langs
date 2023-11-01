@@ -11,3 +11,4 @@ Batch
 Bash
 Python
 Javascript
+fix clear bug when buying items from shop
