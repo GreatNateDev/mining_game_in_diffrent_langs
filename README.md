@@ -11,4 +11,3 @@ Batch
 Bash
 Python
 Javascript
-Add a bot for people like me lol
